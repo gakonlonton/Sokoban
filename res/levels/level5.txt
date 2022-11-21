@@ -1,0 +1,11 @@
+   xxx
+  xx x xxxx
+ xx  xxx  x
+xx d      x
+x   pd x  x
+xxx dxxx  x
+  x  x..  x
+ xx xx.x xx
+ x      xx
+ x     xx
+ xxxxxxx

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260c3814-280b-4af4-b43f-15398ff5fc69" name="Changes" comment="Add resources" />
+    <list default="true" id="260c3814-280b-4af4-b43f-15398ff5fc69" name="Changes" comment="Add resources">
+      <change afterPath="$PROJECT_DIR$/res/levels/level2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/levels/level3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/levels/level4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/levels/level5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/level1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/level1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/textures/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SokobanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SokobanGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Board.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +30,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/res/levels/level1.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/res/levels/level2.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/res/levels/level4.txt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/controller/Board.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -33,18 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/University/Github/Bomberman&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Github/Bomberman",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\University\Github\Sokoban\src\fxml" />
@@ -73,6 +86,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667624472461</updated>
+      <workItem from="1668593825223" duration="31000" />
+      <workItem from="1668594524106" duration="21000" />
+      <workItem from="1669053182994" duration="1371000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668166023884</created>
@@ -90,6 +106,9 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

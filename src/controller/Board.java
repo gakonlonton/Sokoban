@@ -105,6 +105,6 @@ public class Board {
     }
 
     public boolean completed() {
-        return target == numberOfCrate;
+        return (target == numberOfCrate);
     }
 }
